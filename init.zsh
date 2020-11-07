@@ -8,6 +8,7 @@
 p6df::modules::projen::deps() {
     ModuleDeps=(
       p6m7g8/p6df-node
+      ohmyzsh/ohmyzsh:plugins/projen
       # eladb/projen # (segfault???)
       # pgollucci/projen
     )
