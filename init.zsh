@@ -25,7 +25,11 @@ p6df::modules::projen::langs() {
 
   pj_install
 
-  (cd $P6_DFZ_SRC_DIR/pgollucci/projen ; npm run projen)
+  (
+    cd $P6_DFZ_SRC_DIR/pgollucci/projen ; 
+    p6_git_p6_update
+    npm run projen
+  )
 }
 
 ######################################################################
