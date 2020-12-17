@@ -1,6 +1,5 @@
 # p6df-projen
 
-
 ## Table of Contents
 
 
@@ -44,6 +43,7 @@
 - p6df::modules::projen::deps()
 - p6df::modules::projen::init()
 - p6df::modules::projen::langs()
+- p6df::modules::projen::pr::rebuild(pr)
 
 
 ## Author
