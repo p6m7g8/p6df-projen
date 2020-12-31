@@ -42,6 +42,12 @@
 
 #### init.zsh:
 
+- p6df::modules::projen::awesome::build()
+- p6df::modules::projen::awesome::deltas()
+- p6df::modules::projen::awesome::submit()
+- p6df::modules::projen::awesome::synthesize()
+- p6df::modules::projen::awesome::upgrade()
+- p6df::modules::projen::awesome::versions()
 - p6df::modules::projen::deps()
 - p6df::modules::projen::init()
 - p6df::modules::projen::langs()
