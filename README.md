@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-projen:
+
+#### p6df-projen/init.zsh:
 
 - p6df::modules::projen::awesome::build()
 - p6df::modules::projen::awesome::deltas()
